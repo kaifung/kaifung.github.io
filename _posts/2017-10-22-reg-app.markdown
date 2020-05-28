@@ -1,0 +1,31 @@
+---
+layout: post
+title: "派對登記入埸系統"
+date: 2020-02-20
+description: 
+image: /assets/images/worksphoto/qrcodereg1.jpg
+author: KaiFung
+permalink: regisation-system
+tags: 
+  - Website
+  - Interactive
+  - UI
+shortContent:
+---
+
+###### Project Details
+###### **Project Title :**  派對登記入埸系統
+
+###### **Categories:** System , Web Development , Web App
+
+---
+
+This is an anniversary party regisation application. After fill in the form, Clients will recieve an email with QRCode . Clients will need these QRCode to access the Anniversary Party.
+
+派對登記入埸系統
+該活動入埸人士可在入場前先在網頁登記，輸入個人資料並發送後，用家會收到一封帶有 QR條碼 的電郵，在入場前出示QR條碼，QR條碼只可用一次。
+
+![Placeholder](/assets/images/worksphoto/qrcodereg3.jpg)
+
+在場人士會掃描你的QR CODE並允許入埸。  
+![Placeholder](/assets/images/worksphoto/qrcodereg2.jpg)
