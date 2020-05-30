@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 May 2020 21:47:50 +0800</pubDate>
-    <lastBuildDate>Thu, 28 May 2020 21:47:50 +0800</lastBuildDate>
+    <pubDate>Sat, 30 May 2020 21:25:49 +0800</pubDate>
+    <lastBuildDate>Sat, 30 May 2020 21:25:49 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -43,7 +43,7 @@
       </item>
     
       <item>
-        <title>《朗豪坊x LEGO 十二生肖「喜」勢跑》互動遊戲 </title>
+        <title>《朗豪坊 X 樂高十二生肖「喜」勢跑》互動遊戲</title>
         <description>&lt;h6 id=&quot;project-details&quot;&gt;Project Details&lt;/h6&gt;
 &lt;h6 id=&quot;project-title---朗豪坊x-lego-十二生肖喜勢跑互動遊戲&quot;&gt;&lt;strong&gt;Project Title :&lt;/strong&gt;  《朗豪坊x LEGO 十二生肖「喜」勢跑》互動遊戲&lt;/h6&gt;
 
@@ -183,6 +183,34 @@ This portfolio display deisgner works , Including photograph, 3D model , Interac
         <pubDate>Wed, 18 Oct 2017 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/data-archive</link>
         <guid isPermaLink="true">http://localhost:4000/data-archive</guid>
+        
+        <category>Application</category>
+        
+        <category>UI</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>編程影像</title>
+        <description>&lt;h6 id=&quot;project-details&quot;&gt;Project Details&lt;/h6&gt;
+&lt;h6 id=&quot;project-title---編程影像&quot;&gt;&lt;strong&gt;Project Title :&lt;/strong&gt;  編程影像&lt;/h6&gt;
+
+&lt;h6 id=&quot;categories-system--application-development--software&quot;&gt;&lt;strong&gt;Categories:&lt;/strong&gt; System , Application Development , Software&lt;/h6&gt;
+&lt;h6 id=&quot;client--special-event&quot;&gt;Client : Special Event&lt;/h6&gt;
+&lt;h6 id=&quot;date--022019&quot;&gt;Date : 02/2019&lt;/h6&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;利用編程製作影像，模仿雨天畫面，供大型屏幕使用。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/worksphoto/digital-install1.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ISOUYQsHEH0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Wed, 18 Oct 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/digital-installation</link>
+        <guid isPermaLink="true">http://localhost:4000/digital-installation</guid>
         
         <category>Application</category>
         

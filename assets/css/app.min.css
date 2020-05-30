@@ -50,6 +50,10 @@
     -moz-osx-font-smoothing: grayscale
 }
 
+.fa-a:before {
+    content: "\f0a6"
+}
+
 .fa-500px:before {
     content: "\f26e"
 }
@@ -809,6 +813,11 @@
 .fa-youtube-square:before {
     content: "\f166"
 }
+
+
+
+
+
 
 .form__message,
 .header__list>*,
@@ -4025,4 +4034,21 @@ main {
     margin-right: auto;
     width: 50%;
     width: 200px;
+}
+
+.artweblink{
+    margin-top:.75em;
+    text-align: center;
+    font-size: small;
+    color:white;
+}
+
+.artweblink a{
+    color:white;
+    transition: 1s;
+}
+
+.artweblink a:hover{
+    color:grey;
+    transition: 1s;
 }
