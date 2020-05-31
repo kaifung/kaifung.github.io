@@ -1811,7 +1811,7 @@ main {
 
 .contact__container {
     width: 100%;
-    max-width: 65em;
+    /* max-width: 65em; */
     background-color: #fff
 }
 
@@ -4050,5 +4050,14 @@ main {
 
 .artweblink a:hover{
     color:grey;
+    transition: 1s;
+}
+
+.whatsappBtn{
+    color:Green;
+}
+
+.whatsappBtn :hover{
+    opacity: 0.4;
     transition: 1s;
 }
