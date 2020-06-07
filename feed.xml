@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 May 2020 22:21:09 +0800</pubDate>
-    <lastBuildDate>Sun, 31 May 2020 22:21:09 +0800</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2020 04:42:29 +0800</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2020 04:42:29 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -204,6 +204,33 @@ This portfolio display deisgner works , Including photograph, 3D model , Interac
         <guid isPermaLink="true">http://localhost:4000/digital-installation</guid>
         
         <category>Application</category>
+        
+        <category>Interactive</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>寶石配對遊戲 DragDrop Demo</title>
+        <description>&lt;h6 id=&quot;project-details&quot;&gt;Project Details&lt;/h6&gt;
+&lt;h6 id=&quot;project-title---寶石配對遊戲-demo-test&quot;&gt;&lt;strong&gt;Project Title :&lt;/strong&gt;  寶石配對遊戲 Demo Test&lt;/h6&gt;
+
+&lt;h6 id=&quot;categories-interactive-game-development&quot;&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Interactive Game Development&lt;/h6&gt;
+&lt;h6 id=&quot;client-&quot;&gt;Client :&lt;/h6&gt;
+&lt;h6 id=&quot;date--112019&quot;&gt;Date : 11/2019&lt;/h6&gt;
+&lt;h6 id=&quot;unity2d&quot;&gt;Unity2D&lt;/h6&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;遊戲玩法是一在指定時間內將手錶的寳石還原到位置中。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/worksphoto/drag_drop_game.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/worksphoto/drag_drop_game3.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Oct 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/DragDropGame</link>
+        <guid isPermaLink="true">http://localhost:4000/DragDropGame</guid>
         
         <category>Interactive</category>
         
